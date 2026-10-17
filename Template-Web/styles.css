@@ -1,0 +1,28 @@
+p {
+  color: #444;
+  line-height: 1.5;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+#navbar-utama {
+    display: flex;
+    justify-content: space-between;
+    background-color: #626161;
+    padding: 1rem;
+}
+
+#navbar-utama a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
